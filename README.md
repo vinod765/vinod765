@@ -22,10 +22,10 @@
 # 🚀 Current Focus
 
 * Systems programming with **C++**
-* Linux
 * Backend infrastructure
 * Network programming
 * Building **CLI developer tools**
+* Linux
 
 ---
 
