@@ -68,15 +68,6 @@ Implementing a **Redis-compatible in-memory key-value store in C++**.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vinod765&show_icons=true&theme=tokyonight&count_private=true" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinod765&layout=compact&theme=tokyonight" height="170">
-</p>
-
----
-
 # 🌱 Currently Learning
 
 - Operating Systems internals
