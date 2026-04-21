@@ -1,86 +1,43 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Vinod%20Dhoke&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Systems+Programming+Enthusiast;C%2B%2B+Developer;Solidity+%26+Web3+Builder;Linux+Power+User"/>
-</p>
+![banner](https://raw.githubusercontent.com/vinod765/vinod765/main/banner.svg)
 
----
+</div>
 
-# 👋 Hi, I'm Vinod
+<br/>
 
-💻 Computer Science student passionate about **systems programming, backend engineering, and blockchain development**.
+```rust
+let vinod = Developer {
+    name:     "Vinod Dhoke",
+    study:    "B.Tech CSE @ IIT Indore — 2nd Year",
+    focus:    "Systems programming, tools, low-level everything",
+    building: ["niru", "miru", "redis-clone-cpp"],
+};
+```
 
-🐧 I enjoy working with **Linux internals, C++, low-level tools, and on-chain smart contracts**.
+<br/>
 
----
+## Stack
 
-# 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,solidity"/>
-</p>
+<br/>
 
-### Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,react"/>
-</p>
+## Building
 
----
+| Project | What | Stack | Status |
+|---|---|---|---|
+| [eth-multisig-wallet](https://github.com/vinod765/eth-multisig-wallet) | Production-grade M-of-N multisig wallet | Solidity · Foundry · React | ✅ |
+| [niru](https://github.com/vinod765/niru) | Adaptive focus timer for Linux | Rust | 🚧 |
+| [redis-clone-cpp](https://github.com/vinod765/redis-clone-cpp) | Redis-compatible server from scratch | C++ | 🚧 |
+| [miru](https://github.com/vinod765/miru) | Personal dev automation toolkit | Python | 🔒 |
 
-# 📂 Featured Projects
+<br/>
 
-### 🔐 Ethereum MultiSig Wallet
-A production-grade **multi-signature wallet** built from scratch in Solidity — same architecture as Gnosis Safe.
-
-- M-of-N approval threshold
-- Submit, approve, revoke, cancel and execute transactions
-- Transaction expiry and reentrancy protection
-- 41 Foundry unit tests
-- React + ethers.js frontend with MetaMask integration
-
-🔗 [eth-multisig-wallet](https://github.com/vinod765/eth-multisig-wallet)
-
----
-
-### 🖥️ System Resource Monitor
-Terminal-based system monitor written in **C++ using ncurses and Linux /proc filesystem**.
-
-- Real-time CPU and memory monitoring
-- Process statistics
-- Smooth ncurses UI
-
-🔗 [System_Resource_Monitor](https://github.com/vinod765/System_Resource_Monitor)
-
----
-
-### ⚡ Redis Clone *(In Progress)*
-Implementing a **Redis-compatible in-memory key-value store in C++**.
-
-- TCP server with RESP protocol
-- Concurrent client handling
-- Multiple data structures
-- Persistence
-
----
-
-# 🌱 Currently Learning
-
-- Operating Systems internals
-- Distributed Systems
-- Network Programming
-- Blockchain & Smart Contract Security
-
----
-
-# 📫 Connect
-
-- GitHub: [vinod765](https://github.com/vinod765)
-- LinkedIn: [vinod7](https://www.linkedin.com/in/vinod7)
-- Email: [vinodekdhoke@gmail.com](mailto:vinodekdhoke@gmail.com)
-
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vinod765&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" />
+</div>
